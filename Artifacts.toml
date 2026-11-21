@@ -1,0 +1,152 @@
+[[Eunoia]]
+arch = "aarch64"
+git-tree-sha1 = "40273dfca4a3d87012075314b3b5387bc39bc5fa"
+os = "macos"
+
+    [[Eunoia.download]]
+    sha256 = "1a7224309c64b2c9e0e300d4fe3ca1f8d69707365e4fe9e6082288bf589cba62"
+    url = "https://github.com/JuliaBinaryWrappers/Eunoia_jll.jl/releases/download/Eunoia-v1.10.2+0/Eunoia.v1.10.2.aarch64-apple-darwin.tar.gz"
+[[Eunoia]]
+arch = "aarch64"
+git-tree-sha1 = "21648f994ca30109d4d28fb79887ceabd2a8e8fa"
+libc = "glibc"
+os = "linux"
+
+    [[Eunoia.download]]
+    sha256 = "d1ffcc26047f056a227dad670979c17bb62d80cf2756a8c48191dae069e195b8"
+    url = "https://github.com/JuliaBinaryWrappers/Eunoia_jll.jl/releases/download/Eunoia-v1.10.2+0/Eunoia.v1.10.2.aarch64-linux-gnu.tar.gz"
+[[Eunoia]]
+arch = "aarch64"
+git-tree-sha1 = "33e8932875fe0e0f87e3a01be2164343c9cd87cc"
+libc = "musl"
+os = "linux"
+
+    [[Eunoia.download]]
+    sha256 = "66b0c402b68178f6b9ea7bcc92d808e36c73a6086ff6c7b8bf9cd5215534954a"
+    url = "https://github.com/JuliaBinaryWrappers/Eunoia_jll.jl/releases/download/Eunoia-v1.10.2+0/Eunoia.v1.10.2.aarch64-linux-musl.tar.gz"
+[[Eunoia]]
+arch = "aarch64"
+git-tree-sha1 = "b420b14e560f855aa91c36527d0fdfe17d120719"
+os = "freebsd"
+
+    [[Eunoia.download]]
+    sha256 = "9942dd38294115e59ab5e869c9f4daf0a1de79566c6bd06671fdd0d1460d4181"
+    url = "https://github.com/JuliaBinaryWrappers/Eunoia_jll.jl/releases/download/Eunoia-v1.10.2+0/Eunoia.v1.10.2.aarch64-unknown-freebsd.tar.gz"
+[[Eunoia]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "fe63a4a0d110a6a57d5427f4c683cd5ca3ecdb56"
+libc = "glibc"
+os = "linux"
+
+    [[Eunoia.download]]
+    sha256 = "d1c4d8bfbf04a6af8c6e6d3989f59d69458ef729c38ff6c36a7b3f6e4d1c9feb"
+    url = "https://github.com/JuliaBinaryWrappers/Eunoia_jll.jl/releases/download/Eunoia-v1.10.2+0/Eunoia.v1.10.2.armv6l-linux-gnueabihf.tar.gz"
+[[Eunoia]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "49c03993306f0ce5bb5d089af56857726617a25c"
+libc = "musl"
+os = "linux"
+
+    [[Eunoia.download]]
+    sha256 = "eb4b885206b88d942711d1512635cdc42869676da9f35fb42151f6b92b2637ad"
+    url = "https://github.com/JuliaBinaryWrappers/Eunoia_jll.jl/releases/download/Eunoia-v1.10.2+0/Eunoia.v1.10.2.armv6l-linux-musleabihf.tar.gz"
+[[Eunoia]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e2e7c0251941b0016bc31efc2e326c92a3c46ec2"
+libc = "glibc"
+os = "linux"
+
+    [[Eunoia.download]]
+    sha256 = "0a4c6d98d6fe97651cb35e727fb9bc08ca3928067aae48f43a4b9d839322287e"
+    url = "https://github.com/JuliaBinaryWrappers/Eunoia_jll.jl/releases/download/Eunoia-v1.10.2+0/Eunoia.v1.10.2.armv7l-linux-gnueabihf.tar.gz"
+[[Eunoia]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "efa2f1d879d2f904006af9548f6c72b78d8ec361"
+libc = "musl"
+os = "linux"
+
+    [[Eunoia.download]]
+    sha256 = "050a60d7c8083121b14818a75c989f1a030f26b0ba8de5ec663cafbcb7f0dfe6"
+    url = "https://github.com/JuliaBinaryWrappers/Eunoia_jll.jl/releases/download/Eunoia-v1.10.2+0/Eunoia.v1.10.2.armv7l-linux-musleabihf.tar.gz"
+[[Eunoia]]
+arch = "i686"
+git-tree-sha1 = "90e2aece29847003ac4be1a32c3f09430eb26ff1"
+libc = "glibc"
+os = "linux"
+
+    [[Eunoia.download]]
+    sha256 = "4611f0588cceb20d346a4da319fd456e0955dcab236e3610e9e5be53dd2dbc82"
+    url = "https://github.com/JuliaBinaryWrappers/Eunoia_jll.jl/releases/download/Eunoia-v1.10.2+0/Eunoia.v1.10.2.i686-linux-gnu.tar.gz"
+[[Eunoia]]
+arch = "i686"
+git-tree-sha1 = "6b4f2f9247e456126c4f7fd1e014addc8df4b9f4"
+libc = "musl"
+os = "linux"
+
+    [[Eunoia.download]]
+    sha256 = "884d1d159f2aded2dfad037e4a1b03d7ded797b875e2bde71aafb03b850a1b27"
+    url = "https://github.com/JuliaBinaryWrappers/Eunoia_jll.jl/releases/download/Eunoia-v1.10.2+0/Eunoia.v1.10.2.i686-linux-musl.tar.gz"
+[[Eunoia]]
+arch = "powerpc64le"
+git-tree-sha1 = "87750a08f6396be647eb5566251b02db97ce72c9"
+libc = "glibc"
+os = "linux"
+
+    [[Eunoia.download]]
+    sha256 = "b4d049b750062d2eadab5b20f035bdcd0a0052062a273e55651a144f876b0f1b"
+    url = "https://github.com/JuliaBinaryWrappers/Eunoia_jll.jl/releases/download/Eunoia-v1.10.2+0/Eunoia.v1.10.2.powerpc64le-linux-gnu.tar.gz"
+[[Eunoia]]
+arch = "riscv64"
+git-tree-sha1 = "7b5073c9c49d1757556d27a2f5a160c404b7679e"
+libc = "glibc"
+os = "linux"
+
+    [[Eunoia.download]]
+    sha256 = "0b641188fd86d0ceb5a0e4997629cadeecd7147fcb788f46ee30a732c0ef866b"
+    url = "https://github.com/JuliaBinaryWrappers/Eunoia_jll.jl/releases/download/Eunoia-v1.10.2+0/Eunoia.v1.10.2.riscv64-linux-gnu.tar.gz"
+[[Eunoia]]
+arch = "x86_64"
+git-tree-sha1 = "6ee51326e466cfd54bb8e7436061c4fa1526433a"
+os = "macos"
+
+    [[Eunoia.download]]
+    sha256 = "9272a10fb6bb093a7418532bc23030c411bef27215901c722f6b6ac614f5fdaa"
+    url = "https://github.com/JuliaBinaryWrappers/Eunoia_jll.jl/releases/download/Eunoia-v1.10.2+0/Eunoia.v1.10.2.x86_64-apple-darwin.tar.gz"
+[[Eunoia]]
+arch = "x86_64"
+git-tree-sha1 = "4801110430be1171a58993d2b4100957521e998d"
+libc = "glibc"
+os = "linux"
+
+    [[Eunoia.download]]
+    sha256 = "0dc7a08a018e3a8deb9075e04032e631849eb7ee74a34ddc5ae782736fd0fbce"
+    url = "https://github.com/JuliaBinaryWrappers/Eunoia_jll.jl/releases/download/Eunoia-v1.10.2+0/Eunoia.v1.10.2.x86_64-linux-gnu.tar.gz"
+[[Eunoia]]
+arch = "x86_64"
+git-tree-sha1 = "d7874cac11a0f3240ce7aa4d33b5a25195a84d88"
+libc = "musl"
+os = "linux"
+
+    [[Eunoia.download]]
+    sha256 = "13d6fed5bdb316bbcd16ecde2501f1be1f8a8c2c50fcf24745e2f0bc6823b8fa"
+    url = "https://github.com/JuliaBinaryWrappers/Eunoia_jll.jl/releases/download/Eunoia-v1.10.2+0/Eunoia.v1.10.2.x86_64-linux-musl.tar.gz"
+[[Eunoia]]
+arch = "x86_64"
+git-tree-sha1 = "d361c30bc6353974edf62c41b8cad0eccf76a0e5"
+os = "freebsd"
+
+    [[Eunoia.download]]
+    sha256 = "b4b7e184f1a41dcb05af5701ab71e8110374b655ab0d077f61ec4842d3e54490"
+    url = "https://github.com/JuliaBinaryWrappers/Eunoia_jll.jl/releases/download/Eunoia-v1.10.2+0/Eunoia.v1.10.2.x86_64-unknown-freebsd.tar.gz"
+[[Eunoia]]
+arch = "x86_64"
+git-tree-sha1 = "cb6f7d3991a0b6549f9ff0571e1a3f7ebffb1a74"
+os = "windows"
+
+    [[Eunoia.download]]
+    sha256 = "18e7670fcba318a42a6c25ddd6f745ae9267062776f624d35feb1c750bbf7cd2"
+    url = "https://github.com/JuliaBinaryWrappers/Eunoia_jll.jl/releases/download/Eunoia-v1.10.2+0/Eunoia.v1.10.2.x86_64-w64-mingw32.tar.gz"
